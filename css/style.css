@@ -1,4 +1,25 @@
 body {
 
     background-color: aqua;
+height: 100%;
+}
+
+#shop ,#link {
+
+    font-size: 20px;
+    margin: 20px;
+    margin-bottom: 200px;
+}
+header nav{
+    font-size: 20px;
+    height: 200px;
+    float:inline-start;
+}
+
+ul {
+    margin: 20px;
+}
+
+h2{
+    color: brown;
 }
