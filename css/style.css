@@ -6,7 +6,7 @@ height: 100%;
 
 #shop ,#link {
 
-    font-size: 20px;
+    font-size: 10px;
     margin: 20px;
     margin-bottom: 200px;
 }
@@ -22,4 +22,9 @@ ul {
 
 h2{
     color: brown;
+}
+td tr{
+    margin: 30px;
+    
+
 }
