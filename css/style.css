@@ -1,6 +1,13 @@
+a{
+    font-size: 50px;
+    padding: 20px;
+    font-style:italic ;
+    
+}
+
 body {
 
-    background-color: aqua;
+    background-color: white;
 height: 100%;
 }
 
@@ -10,10 +17,18 @@ height: 100%;
     margin: 20px;
     margin-bottom: 200px;
 }
-header nav{
+header nav a{
+  position:-webkit-sticky;
+  top: 0;
+  padding: 5px;
+  background-color: #cae8ca;
+  border: 2px solid #4CAF50;
+
     font-size: 20px;
-    height: 200px;
+
+    height: 10px;
     float:inline-start;
+
 }
 
 ul {
@@ -23,8 +38,72 @@ ul {
 h2{
     color: brown;
 }
-td tr{
-    margin: 30px;
+td ,th{
     
+    font-size: 20px;
+    color: brown;
+    border: rgb(132, 0, 255);
+    padding: 20px;
+    
+    
+}
+
+
+#img {
+        position:relative;
+        margin: initial;
+
+    }
+
+#secondp{
+
+    margin: 20px;
+
+
 
 }
+
+img {
+   margin: 20px;
+padding: 20px;
+border: lawngreen;
+align-items: center;
+
+}
+*{
+    font-size: 20px;
+}
+
+#Shop {
+    border: orangered;
+}
+sales table{
+    font-size: 20px;
+}
+/* * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  p {
+    background: aqua;
+    border: 3px solid blue;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  span {
+    background: red;
+    border: 1px solid black;
+  }
+  
+  .positioned {
+    position: absolute;
+    background: yellow;
+    top: 30px;
+    left: 30px;
+  } */
