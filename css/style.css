@@ -26,7 +26,7 @@ header nav a{
 
     font-size: 20px;
 
-    height: 10px;
+    height: 100px;
     float:inline-start;
 
 }
@@ -43,7 +43,7 @@ td ,th{
     font-size: 20px;
     color: brown;
     border: rgb(132, 0, 255);
-    padding: 20px;
+    padding: 10px;
     
     
 }
@@ -80,30 +80,10 @@ align-items: center;
 sales table{
     font-size: 20px;
 }
-/* * {
-    box-sizing: border-box;
-  }
-  
-  body {
-    width: 500px;
-    margin: 0 auto;
-  }
-  
-  p {
-    background: aqua;
-    border: 3px solid blue;
-    padding: 10px;
-    margin: 10px;
-  }
-  
-  span {
-    background: red;
-    border: 1px solid black;
-  }
-  
-  .positioned {
-    position: absolute;
-    background: yellow;
-    top: 30px;
-    left: 30px;
-  } */
+fieldset{
+margin: 10px;
+display: inline-block;
+size: 10px;
+
+}
+
