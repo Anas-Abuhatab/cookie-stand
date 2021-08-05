@@ -106,7 +106,7 @@ function addnewrow(event){
 
 
 
-function tablebotom(){ ///                                               bottom
+function tablebotom(){ ///                          bottom
   let trElement=document.createElement('tr');
   shop.appendChild(trElement);
 
